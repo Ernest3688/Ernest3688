@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ernest Ifeagwu</h1>
 <h3 align="center">A passionate frontend developer from Lagos, Nigeria.</h3>
 
-- 🔭 I’m currently working on   <a href="http://www.calculatorappbyernest.netlify.app">A Calculator App</a>
+- 🔭 I’m currently working on   <a href="https://www.calculatorappbyernest.netlify.app">A Calculator App</a>
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
-- 🤝 I’m looking for help with  <a href="http://www.myolddesign.netlify.app">My first webpage</a>
+- 🤝 I’m looking for help with  <a href="https://www.myolddesign.netlify.app">My first webpage</a>
 
 - 👨‍💻 All of my projects are available at  <a href="http://www.github.com/ernest3688">github.com/ernest3688</a>
 
