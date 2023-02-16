@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ernest Ifeagwu</h1>
 <h3 align="center">A passionate frontend developer from Lagos, Nigeria.</h3>
 
-- 🔭 I’m currently working on   <a href="calculatorappbyernest.netlify.app" <img align="center" Calculator App</a>
+- 🔭 I’m currently working on   <a href="calculatorappbyernest.netlify.app" target="blank"<img align="center" Calculator App</a>
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
