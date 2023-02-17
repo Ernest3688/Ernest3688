@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Lagos, Nigeria.</h3>
 
 - 🔭 I’m currently working on   <a href="https://calculatorappbyernest.netlify.app/">calculatorappbyernest.netlify.app</a> 
-1
+
 - 🌱 I’m currently learning **JavaScript and React**
 
 - 🤝 I’m looking for help with  <a href="myolddesign.netlify.app">My first webpage</a>
