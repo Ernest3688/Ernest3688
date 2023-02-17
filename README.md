@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript and React**
 
-- 🤝 I’m looking for help with  <a href="myolddesign.netlify.app">My first webpage</a>
+- 🤝 I’m looking for help with  <a href="https://myolddesign.netlify.app">My first webpage</a>
 
 - 👨‍💻 All of my projects are available at  <a href="http://www.github.com/ernest3688">github.com/ernest3688</a>
 
