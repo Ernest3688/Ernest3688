@@ -11,9 +11,9 @@
 
 - 📝 I regularly write articles on <a href="http://www.theextraordinarybeliever.com">theextraordinarybeliever</a>
 
-- 💬 Ask me about **HTML and CSS**
+- 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **chigozirimifeagwu@gmail.com and 08100617848**
+- 📫 How to reach me **chigozirimifeagwu@gmail.com**
 
 - 📄 Know about my experiences  <a href="http://www.github.com/ernest3688">github.com/ernest3688</a>
 
