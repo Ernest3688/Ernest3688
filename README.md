@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on   <a href="https://calculatorappbyernest.netlify.app/">calculatorappbyernest.netlify.app</a> 
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **React**
 
 - 🤝 I’m looking for help with  <a href="https://myolddesign.netlify.app">My first webpage</a>
 
