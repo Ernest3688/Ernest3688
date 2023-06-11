@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking to collaborate  with  <a href="https://myolddesign.netlify.app">any front-end open source project</a>
+- 🤝 I’m looking to collaborate  with any front-end open source project</a>
 
 - 👨‍💻 All of my projects are available at  <a href="http://www.github.com/ernest3688">github.com/ernest3688</a>
 
