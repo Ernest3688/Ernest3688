@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking to collaborate  with  **any front-end open source project
+- 🤝 I’m looking to collaborate  with  **any front-end open source project**
 
 - 👨‍💻 All of my projects are available at  <a href="http://www.github.com/ernest3688">github.com/ernest3688</a>
 
