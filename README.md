@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on   <a href="https://mp3appbyernestchigo.netlify.app/">A music player app</a> 
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **React.js**
 
 - 🤝 I’m looking to collaborate  with  **any front-end open source project**
 
