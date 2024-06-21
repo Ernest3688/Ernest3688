@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at  <a href="http://www.github.com/ernest3688">github.com/ernest3688</a>
 
-- 📝 I regularly write articles on <a href="http://www.theextraordinarybeliever.com">theextraordinarybeliever</a>
+- 📝 I regularly write articles on <a href="https://medium.com/@chigozirimifeagwu">Medium</a>
 
 - 💬 Ask me about **Javascript**
 
